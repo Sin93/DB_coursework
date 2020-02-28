@@ -39,7 +39,12 @@ orders:
 	Список заказов клиентов
 order_composition:
 	Состав заказа
-	
+
+
+Скрипты:
+coursework_DDL.sql - создаёт базу, триггер, хранимую процедуру и представления
+coursework_insert_data.sql - заполняет базу данными
+coursework_select.sql - просто select запрос
 
 
 
